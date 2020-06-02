@@ -1,0 +1,26 @@
+.DisplayMovies {
+  background: white;
+  padding: 20px 100px 100px 100px;
+}
+
+.DisplayMovies ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.DisplayMovies ul div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.DisplayMovies p {
+  color: black;
+  font-size: 0.6rem;
+  margin-left: 10px;
+}
+
+.DisplayMovies__Product-Container {
+  margin-bottom: 25px;
+  max-width: 150px;
+}

@@ -1,0 +1,10 @@
+.Product {
+  padding: 45px 10px;
+  margin-bottom: 5px;
+  width: 120px;
+  height: 150px;
+}
+
+.Product__img {
+  object-fit: contain;
+}
